@@ -6,8 +6,7 @@ An elegant Android weather application provides real-time weather updates based 
 ## 📸 Demo
 
 ### 🎥 Video Preview
-
-_Replace `VIDEO_ID` with your actual YouTube video ID._
+[![Watch the video](https://github.com/kareemessam09/WeatherApp/blob/master/video_thumbnail.png?raw=true)](https://github.com/kareemessam09/WeatherApp/blob/master/weatherApp_1.mp4)
 
 ### 🖼️ Screenshots
 
