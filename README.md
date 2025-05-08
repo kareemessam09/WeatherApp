@@ -9,12 +9,19 @@ An elegant Android weather application provides real-time weather updates based 
 
 _Replace `VIDEO_ID` with your actual YouTube video ID._
 
-## 🖼️ Screenshots
+### 🖼️ Screenshots
 
-| Current Weather | Forecast | Settings | Offline Mode |
-|-----------------|----------|----------|--------------|
+**Current Weather**  
+![Current Weather](https://github.com/kareemessam09/WeatherApp/blob/master/Screenshot_1.png?raw=true)
 
-_Ensure that the `images` folder contains the respective screenshot images._
+**Forecast**  
+![Forecast](https://github.com/kareemessam09/WeatherApp/blob/master/Screenshot_2.png?raw=true)
+
+**Permessions**  
+![Settings](https://github.com/kareemessam09/WeatherApp/blob/master/Screenshot_3.png?raw=true)
+
+**Offline Mode**  
+![Offline Mode](https://github.com/kareemessam09/WeatherApp/blob/master/Screenshot_4.png?raw=true)
 
 ## 🚀 Features
 
