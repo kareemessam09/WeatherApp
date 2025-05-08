@@ -3,13 +3,11 @@
 
 Hello,
 
-I've developed this Weather App by carefully following the requirements. It provides real-time weather updates based on your location, with features like swipe-to-refresh, detailed weather info, and offline support. Built using Kotlin and MVVM architecture, the app aims to offer a smooth and user-friendly experience.
+I've developed this Weather App by carefully following the requirements(without any third-party libraries). It provides real-time weather updates based on your location, with features like swipe-to-refresh, detailed weather info, offline support, and configuration changes. Built using Kotlin and MVVM architecture, the app aims to offer a smooth and user-friendly experience.
 
 I hope you like it!
 
-## 📸 Demo
-
-### 🎥 Video Preview
+## 📸 Video Preview
 [![Watch the video](https://img.youtube.com/vi/sHJwc3Sw6rQ/0.jpg)](https://www.youtube.com/watch?v=sHJwc3Sw6rQ)
 
 ### 🖼️ Screenshots
@@ -30,6 +28,7 @@ I hope you like it!
 - Forecast view for upcoming weather predictions.
 - Offline handling with cached data support.
 - User-friendly interface with dynamic icons based on weather conditions and time of day.
+- configuration changes handeling
 - tried to test (not my best feature....)
  
 
