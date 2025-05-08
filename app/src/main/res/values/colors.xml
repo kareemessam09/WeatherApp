@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_dark">#0D1B2A</color>        <!-- very dark navy -->
+    <color name="card_mid">#1B263B</color>       <!-- mid-tone blue/navy -->
+
+    <!-- Card border -->
+    <color name="card_stroke">#415A77</color>    <!-- muted steel blue -->
+
+    <!-- Text -->
+    <color name="text_primary">#E0E1DD</color>   <!-- off-white -->
+    <color name="text_secondary">#AAB8C2</color> <!-- cool grey -->
+
+    <!-- Accent -->
+    <color name="accent">#7289DA</color>         <!-- soft periwinkle/blue-purple -->
+
+    <!-- Optional additional colors -->
+    <color name="error">#E4572E</color>
+    <color name="success">#2E8B57</color>
+</resources>
